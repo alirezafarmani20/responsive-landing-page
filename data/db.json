@@ -1,0 +1,85 @@
+{
+    "categorys": [
+        {
+            "id": "1",
+            "categoryImage": "../src/assets/images/category1.png",
+            "categoryName": "Clothing"
+        },
+        {
+            "id": "2",
+            "categoryImage": "../src/assets/images/category2.png",
+            "categoryName": "Home Goods"
+        },
+        {
+            "id": "3",
+            "categoryImage": "../src/assets/images/category3.png",
+            "categoryName": "Bedding"
+        },
+        {
+            "id": "4",
+            "categoryImage": "../src/assets/images/category4.png",
+            "categoryName": "Furniture"
+        },
+        {
+            "id": "5",
+            "categoryImage": "../src/assets/images/category5.png",
+            "categoryName": "Accessories"
+        }
+    ],
+    "mostWantedProducts": [
+        {
+            "id": "1",
+            "productImage": "../src/assets/images/product1.png",
+            "productDescription" : "Alpine Porovisoin | Card SandalWood Hand Soap",
+            "offProductPrice": "99.900",
+            "productPrice": "259.000"
+        },
+        {
+            "id": "2",
+            "productImage": "../src/assets/images/product2.png",
+            "productDescription": "Woman`s Classic Solid Low Back Wool Slipper",
+            "offProductPrice": "79.900",
+            "productPrice": "159.000"
+        },
+        {
+            "id":"3",
+            "productImage":"../src/assets/images/product3.png",
+            "productDescription": "Large Patterned Hamper Basket",
+            "offProductPrice": "199.900",
+            "productPrice": "329.000"
+        },
+        {
+            "id": "4",
+            "productImage": "../src/assets/images/product4.png",
+            "productDescription": "Melior | Eco Laundry Powder ",
+            "offProductPrice": "159.000",
+            "productPrice": "259.000"
+        }
+    ],
+    "newArrival": [
+        {
+            "id": "1",
+            "arrivalImage": "../src/assets/images/arrival1.png",
+            "arrivalDescription": "Lollygagger Recyclede Lounger Chire",
+            "arrivalPrice": "699.900"
+        },
+        {
+            "id": "2",
+            "arrivalImage": "../src/assets/images/arrival2.png",
+            "arrivalDescription": "Lollygagger Recyclede Lounge  Chire",
+            "arrivalPrice": "999.900"
+        },
+        {
+            "id": "3",
+            "arrivalImage": "../src/assets/images/arrival3.png",
+            "arrivalDescription": "Nissaw Recyclede Loveseat",
+            "arrivalPrice": "1.399.900"
+        },
+        {
+            "id": "4",
+            "arrivalImage": "../src/assets/images/arrival4.png",
+            "arrivalDescription": "Lollygagger Recycled Lounge Outdoor Chire",
+            "arrivalPrice": "1.199.900"
+        }
+    ]
+}
